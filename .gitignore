@@ -1,0 +1,7 @@
+packages/
+bin/
+Scripts/
+.vs/
+Content/
+fonts/
+obj/
